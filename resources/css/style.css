@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    font-family: Verdana;
+    text-align: center;
+}
+
+h1 {
+    font-family: Verdana;
+    font-weight: 450;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 21px;
+    color: grey;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+div {
+    color: grey;
+    text-align: right;
+}
+
+.container {
+    text-align: center;
+}
